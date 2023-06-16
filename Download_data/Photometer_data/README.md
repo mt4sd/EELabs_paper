@@ -19,7 +19,7 @@ Format example: [sun, galaxy, zodiacal] . Write all without brackets for all fil
 --device : List of photometers for which you want to download the data. Format exalmple: [LPL1_001,LPL2_033,stars1] Wite all 
 without brackets for ones device. Format example: stars1. Do not use this input if you want to download data for all photometers.
 
---ephemeris True  if you want to include the ephemeris
+--ephemeris : True  if you want to include the ephemeris
 
 The script will create a folder named "Photometer data" with everything. Inside, it contains the Log.csv file with the list of 
 successfully downloaded photometers and their respective times. Additionally, it contains All_devices.csv with all existing 
