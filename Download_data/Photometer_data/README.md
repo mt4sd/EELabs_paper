@@ -5,7 +5,9 @@ requires both the installation of the EELabs repository and the corresponding co
 within the main folder of the project, "eelabs_portal".
 
 Inputs:
+
 --out, --output Filename where you want to save the data. REQUIRED INPUT
+
 
 --f, --from : Year from which you want to download the data
 
