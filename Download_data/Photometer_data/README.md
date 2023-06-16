@@ -1,4 +1,4 @@
-Download_EELabs_photometers.py description
+DOWNLOAD_EELABS_PHOTOMETERS.PY DESCRIPTION
 
 Download_EELabs_photometers.py is a script to download data from EELabs photometers. IT IS NOT TO UPDATE DOWNLOADED DATA. It 
 requires both the installation of the EELabs repository and the corresponding conda environment to function. It has to be located 
