@@ -22,6 +22,7 @@ The token expires every 4-6 months. REQUIRED INPUT
 --day_from Year of the start of the downloaded data. Day of the year number, between 1 and 365
 
 
-The script will create a Satellite_records.csv. Dataset fields: The name of the photometer and VIIRS' fields. These are explained in VIIRS_Black_Marble_UG_v1.2_April_2021.pdf.
+The script will create a Satellite_records.csv. Dataset fields: The name of the photometer, measurement date and VIIRS' fields. These are explained in VIIRS_Black_Marble_UG_v1.2_April_2021.pdf.
 
-IMPORTANT: In case of interrupting the program execution, it can be relaunched to continue the download from where it left off. If there are days when VIIRS lacks data, restart the program from the day it resumes having data
+IMPORTANT: In case of interrupting the program execution, it can be relaunched to continue the download from where it left off. 
+If there are days when VIIRS lacks data, restart the program from the day it resumes having data
