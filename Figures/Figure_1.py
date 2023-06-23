@@ -82,4 +82,3 @@ ax.text(850,0.78,'OH bands',fontsize=12,multialignment='center')
 
 plt.tight_layout()
 plt.show()
-plt.savefig('spectra.pdf', dpi=1000)
