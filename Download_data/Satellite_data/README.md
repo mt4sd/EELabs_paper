@@ -56,4 +56,4 @@ The script will create a Data_tile_VIIRS.csv. Dataset fields: Logitude, latitude
 IMPORTANT: In case of interrupting the program execution, it can be relaunched to continue the download from where it left off. 
 If there are days when VIIRS lacks data, restart the program from the day it resumes having data
 
-IMPORTANT: Inputs for Valverde de Burquillos map: --left_upper_corner [-18.060,28.893] --right_lower_corner [-17.634,28.410]
+IMPORTANT: Inputs for Valverde de Burguillos map: --left_upper_corner [-18.060,28.893] --right_lower_corner [-17.634,28.410]
