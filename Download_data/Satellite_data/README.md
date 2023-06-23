@@ -1,7 +1,7 @@
 **VNP46A2_VIIRS_DOWNLOAD.PY DESCRIPTION**
 
 VNP46A2_VIIRS_download.py is a script to download data from VIIRS satellite in the photometers' location, NASA product VNP46A2. IT IS NOT TO UPDATE DOWNLOADED DATA. It 
-requires the EELabs environment. 
+requires the Download_VIIRS.yml environment. 
 
 Inputs:
 
