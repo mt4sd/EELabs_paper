@@ -1,6 +1,4 @@
-#python Descarga_La_Palma.py --year_from 2022 --year_to 2022 --out /mnt/data/datos_borja/VIIRS/La_Palma --left_upper_corner [-18.060,28.893] --right_lower_corner [-17.634,28.410]
-#--day_from 223
-#Entorno EELab
+#EELab enviroment
 import pandas as pd
 import numpy as np 
 import h5py
